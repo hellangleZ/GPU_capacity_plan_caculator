@@ -4,7 +4,8 @@
 
 A professional, full-stack estimation tool designed for LLM (Large Language Model) inference infrastructure planning. This calculator provides deep insights into **Latency (TTFT)**, **Generation Speed (Tokens/s)**, and **Capacity (VRAM)**, helping architects and engineers make data-driven decisions for GPU cluster deployment.
 
-![GenAI Inference Capacity Planner Screenshot](https://via.placeholder.com/800x400?text=GenAI+Inference+Capacity+Planner+UI)
+<img width="1420" height="1167" alt="image" src="https://github.com/user-attachments/assets/f7d39fa9-5177-4887-9d4b-b1196fc426e6" />
+
 
 ## 🚀 Key Features
 
